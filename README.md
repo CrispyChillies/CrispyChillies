@@ -12,7 +12,7 @@ My core interest lies at the intersection of **Artificial Intelligence** and **S
 🔭 I’m actively working on enhancing my portfolio website and contributing to AI research in software testing.
 👯 I’m looking to collaborate on interesting AI projects or web development challenges.
 💬 Ask me about Python, TypeScript, Next.js, AI/ML basics, or Computer Vision concepts!
-📫 How to reach me: **hailong552004@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/long-pham-your-linkedin-id) (*<-- Thay 'your-linkedin-id' bằng ID LinkedIn của bạn*)
+📫 How to reach me: **hailong552004@gmail.com** or connect on [LinkedIn](https://www.linkedin.com/in/long-ph%E1%BA%A1m-419003249/)
 
 ---
 
