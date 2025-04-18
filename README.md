@@ -44,7 +44,7 @@ Here are some of the projects I've worked on. You can find more on my repositori
     <li>A web platform leveraging LLMs to help students study more effectively by summarizing materials, generating mind maps, and providing an AI chatbot for document-based Q&A.</li>
     <li>Built with Next.js (TypeScript), Python backend, integrated various LLM APIs, and designed an intuitive UI with TailwindCSS.</li>
     <li><i>Keywords: LLM, RAG, Next.js, TypeScript, Python, NLP, AI Application</i></li>
-    <li><a href="https://github.com/CrispyChillies/your-notebooklm-repo">🔗 GitHub Repo</a> | <a href="your-live-demo-link">🚀 Live Demo (Nếu có)</a></li>
+    <li><a href="https://github.com/CrispyChillies/your-notebooklm-repo">🔗 GitHub Repo</a> | <a href="your-live-demo-link">🚀 Live Demo</a></li>
     </ul>
 </details>
 
